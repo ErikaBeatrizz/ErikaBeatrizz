@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  •💬 <b>Ask me about: 🎮Games; 😱Horror Movies; ✒️Tattoos;
+  •💬 <b>Ask me about: 🎮Games; 😱Horror Movies; 🖤Tattoos;
 </p>
 
 ###
