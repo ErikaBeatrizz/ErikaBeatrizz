@@ -7,7 +7,7 @@
 </p> 
 
 <p>
-  •📌 <b>I'm from Manaus, but I Living in <b>Rio de Janeiro, Brazil</b> 
+  •📌 <b>I was born in Amazonas and moved to Rio de Janeiro when I was 13 years old</b> 
 </p>
 
 <p>
