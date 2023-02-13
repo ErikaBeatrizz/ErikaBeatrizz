@@ -3,7 +3,7 @@
 </h2>
 
 <p>
-  •💻<b>I'm Graphic Designer, Web Designer and Front-End Developer </b> 
+  •💻<b>I'm Graphic and Web Designer & Front-End Developer </b> 
 </p> 
 
 <p>
