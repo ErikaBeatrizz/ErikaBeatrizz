@@ -40,15 +40,15 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<br>
+
 <div> 
  <p align="center">
      <img 
-       align="center" 
        height="165"
        src="https://github-readme-stats.vercel.app/api?username=ErikaBeatrizz&show_icons=true&include_all_commits=true&theme=omni" alt="erika-beatriz github stats" 
      />
      <img 
-       align="center" 
        height="165"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaBeatrizz&layout=compact&theme=omni" 
      />
