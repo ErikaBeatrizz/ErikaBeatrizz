@@ -33,13 +33,14 @@
 <div style="display: inline_block"><br>
   <h2> Languages / Technologies / Tools: </h2> 
   <br>
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" height="40" width="50" alt="javascript" />
-  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" height="40" width="50" alt="typescript">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Node" height="40" width="50" src="https://static-00.iconduck.com/assets.00/node-js-icon-1901x2048-mk1e13df.png">
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Figma" height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png">
+  
 </div>
 
 <br>
