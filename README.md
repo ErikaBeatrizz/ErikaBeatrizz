@@ -29,6 +29,21 @@
 
 </div>
 
+<div> 
+ <p align="center">
+     <img 
+       align="center" 
+       height="165"
+       src="https://github-readme-stats.vercel.app/api?username=ErikaBeatrizz&show_icons=true&include_all_commits=true&theme=omni" alt="erika-beatriz github stats" 
+     />
+     <img 
+       align="center" 
+       height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikaBeatrizz&layout=compact&theme=omni" 
+     />
+  </p>
+</div>
+
 
 <div style="display: inline_block"><br>
   <h2> Languages / Technologies / Tools: </h2> 
